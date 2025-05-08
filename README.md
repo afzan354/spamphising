@@ -25,8 +25,8 @@ Script ini digunakan untuk **mengirim data dummy (simulasi BRImo)** ke bot Teleg
 1. **Clone repositori ini:**
 
    ```bash
-   git clone https://github.com/username/telegram-dummy-sender.git
-   cd telegram-dummy-sender
+   git clone https://github.com/afzan354/spamphising.git
+   cd spamphising
    ```
 
 2. **Install dependensi:**
@@ -57,7 +57,7 @@ CHAT_ID = "CHAT_ID_KAMU"
 ## ▶️ Cara Menjalankan
 
 ```bash
-python dummy_sender.py
+python spam.py
 ```
 
 Contoh ketika dijalankan:
