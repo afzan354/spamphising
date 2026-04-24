@@ -116,4 +116,4 @@ Penggunaan script ini **hanya diperbolehkan untuk keperluan edukatif dan penguji
 
 ---
 
-Kalau kamu mau, aku bisa bantu sekalian buatkan `requirements.txt` juga. Mau?
+
